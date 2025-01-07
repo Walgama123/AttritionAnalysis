@@ -1,6 +1,6 @@
 <h1 align="center"> Attrition Analysis </h1>
 <div align="center">
-	<img src="/images/icon.png">
+	<img src="/Images/icon.png">
 </div>
 
 ## Topic
